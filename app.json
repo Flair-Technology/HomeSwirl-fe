@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "HomeSwirl",
-    "slug": "HomeSwirl",
+    "slug": "homeswirl",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7a6425d5-7b55-4b3d-92b1-588217b9ef7b"
+      }
+    },
+    "owner": "flair-technology"
   }
 }
