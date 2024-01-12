@@ -33,6 +33,12 @@
         "projectId": "7a6425d5-7b55-4b3d-92b1-588217b9ef7b"
       }
     },
-    "owner": "flair-technology"
+    "owner": "flair-technology",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7a6425d5-7b55-4b3d-92b1-588217b9ef7b"
+    }
   }
 }
