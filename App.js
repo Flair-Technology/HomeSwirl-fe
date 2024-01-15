@@ -1,11 +1,14 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Isaac Fuck you🤦‍♂️🤦‍♂️🤦‍♂️</Text>
-      <StatusBar style="auto" />
+      <Text>
+      Okay!
+      Tofumni lets get started🤞✨
+      </Text>
+      
     </View>
   );
 }
